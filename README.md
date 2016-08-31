@@ -1,2 +1,2 @@
 # hello-world
-This will be a repository where I will store my ideas
+I just created a new branch, and edited my readme file
